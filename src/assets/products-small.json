@@ -1,0 +1,88 @@
+{
+	"data": [
+		{
+			"id": "1000",
+			"code": "f230fh0g3",
+			"name": "CRISIL India",
+			"description": "Product Description",
+			"image": "bamboo-watch.jpg",
+			"price": 65,
+			"category": "Mandate Type : Online",
+			"quantity": 24,
+			"inventoryStatus": "30-04-2021",
+			"rating": 5
+		},
+		{
+			"id": "1001",
+			"code": "nvklal433",
+			"name": "3i Infotech",
+			"description": "Product Description",
+			"image": "black-watch.jpg",
+			"price": 72,
+			"category": "Mandate Type : Offline",
+			"quantity": 61,
+			"inventoryStatus": "03-07-2021",
+			"rating": 4
+		},
+		{
+			"id": "1002",
+			"code": "zz21cz3c1",
+			"name": "Iconic Automobiles",
+			"description": "Product Description",
+			"image": "blue-band.jpg",
+			"price": 79,
+			"category": "Mandate Type : Offline",
+			"quantity": 2,
+			"inventoryStatus": "30-01-2021",
+			"rating": 3
+		},
+		{
+			"id": "1003",
+			"code": "244wgerg2",
+			"name": "Gomatha Cotton Industries",
+			"description": "Product Description",
+			"image": "blue-t-shirt.jpg",
+			"price": 29,
+			"category": "Mandate Type : Online",
+			"quantity": 25,
+			"inventoryStatus": "11-04-2020",
+			"rating": 5
+		},
+		{
+			"id": "1004",
+			"code": "h456wer53",
+			"name": "J. P. C. Enterprises",
+			"description": "Product Description",
+			"image": "bracelet.jpg",
+			"price": 15,
+			"category": "Mandate Type : Online",
+			"quantity": 73,
+			"inventoryStatus": "17-04-2021",
+			"rating": 4
+		},
+		{
+			"id": "1005",
+			"code": "av2231fwg",
+			"name": "Brickwork Ratings",
+			"description": "Product Description",
+			"image": "brown-purse.jpg",
+			"price": 120,
+			"category": "Mandate Type : Online",
+			"quantity": 0,
+			"inventoryStatus": "03-07-2021",
+			"rating": 4
+		},
+		{
+			"id": "1006",
+			"code": "bib36pfvm",
+			"name": "Nano-Agro Foods Private Limited",
+			"description": "Product Description",
+			"image": "chakra-bracelet.jpg",
+			"price": 32,
+			"category": "Mandate Type : Online",
+			"quantity": 5,
+			"inventoryStatus": "17-04-2021",
+			"rating": 3
+		}
+	]
+}
